@@ -4,3 +4,5 @@ dotnet new
 dotnet-ef database update
 dotnet-ef migration add IntialMigration
 dotnet tool install --global dotnet-ef --version 5.0.0-rc.2.20475.6
+
+
